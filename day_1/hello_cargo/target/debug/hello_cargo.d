@@ -1,0 +1,1 @@
+/Users/jgregory/Engineering/rust/src/github.com/j4ng5y/100-days-of-Rust/day_1/hello_cargo/target/debug/hello_cargo: /Users/jgregory/Engineering/rust/src/github.com/j4ng5y/100-days-of-Rust/day_1/hello_cargo/src/main.rs
